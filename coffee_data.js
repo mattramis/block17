@@ -8,9 +8,7 @@
 // d. Connect the coffee_data.js file to the index.js file.
 
 module.exports = {
-  hello: function () {
-    return "Hello";
-  },
+  coffee: function () {},
 };
 
 function sum(acc, val) {
